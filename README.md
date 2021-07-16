@@ -1,5 +1,5 @@
 # rn-guess-number
-My React Native Guess Program from Udemy Course [The Practical Guide 2021 Edition]
+My React Native Guess Number Program from Udemy Course [The Practical Guide 2021 Edition]
 
 # Version
 
